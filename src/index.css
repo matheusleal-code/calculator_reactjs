@@ -1,0 +1,14 @@
+*{
+  font-family: monospace;
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #fff;
+  background: linear-gradient(to right, rgb(89, 193, 115), rgb(161, 127, 224));
+}
