@@ -1,10 +1,10 @@
-# Rich-Text
+# Calculator
 
 A small example of a rich-text application with only 3 methods, italic, bold and underlined
 
 ## About the Project
 
-![calculator running](./public/calc.gif)
+![calculator running](calc.gif)
 
 ## Built With
 
