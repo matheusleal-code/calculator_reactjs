@@ -4,7 +4,7 @@ A small example of a rich-text application with only 3 methods, italic, bold and
 
 ## About the Project
 
-![calculator running](calc.gif)
+![calculator running](./public/calc.gif)
 
 ## Built With
 
