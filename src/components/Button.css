@@ -22,7 +22,7 @@
 }
 
 .button.triple{
-    grid-column: 3;
+    grid-column: span 3;
 }
 
 .button.operation{
