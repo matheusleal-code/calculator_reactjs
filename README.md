@@ -1,6 +1,6 @@
 # Calculator
 
-A small example of a rich-text application with only 3 methods, italic, bold and underlined
+An example of a basic calculator
 
 ## About the Project
 
